@@ -1,4 +1,6 @@
 # 高德定位
-DOMAIN-SUFFIX,apilocate.amap.com
+# DOMAIN-SUFFIX,apilocate.amap.com
+DOMAIN-KEYWORD,amap
 # 百度定位
-DOMAIN-SUFFIX,api.map.baidu.com
+# DOMAIN-SUFFIX,api.map.baidu.com
+DOMAIN-KEYWORD,baidu
